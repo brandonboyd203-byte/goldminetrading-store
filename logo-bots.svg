@@ -1,0 +1,22 @@
+<svg width="500" height="500" viewBox="0 0 500 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Pure black background -->
+  <rect width="500" height="500" rx="108" fill="#050505"/>
+
+  <!-- Gold bars (centered-left) -->
+  <!-- Bar 3 (bottom) -->
+  <rect x="64" y="278" width="120" height="36" rx="7" fill="#b8901c"/>
+  <rect x="64" y="278" width="120" height="14" rx="7" fill="#e8c040"/>
+  <!-- Bar 2 (middle) -->
+  <rect x="74" y="236" width="110" height="36" rx="7" fill="#b8901c"/>
+  <rect x="74" y="236" width="110" height="14" rx="7" fill="#e8c040"/>
+  <!-- Bar 1 (top) -->
+  <rect x="84" y="194" width="100" height="36" rx="7" fill="#b8901c"/>
+  <rect x="84" y="194" width="100" height="14" rx="7" fill="#e8c040"/>
+  <!-- Shine -->
+  <line x1="98" y1="204" x2="172" y2="204" stroke="rgba(255,255,255,0.35)" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="88" y1="246" x2="174" y2="246" stroke="rgba(255,255,255,0.35)" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="78" y1="288" x2="174" y2="288" stroke="rgba(255,255,255,0.35)" stroke-width="2.5" stroke-linecap="round"/>
+
+  <!-- GOLDMINE text — white, right of bars -->
+  <text x="218" y="278" font-family="-apple-system, 'SF Pro Display', 'Helvetica Neue', Arial, sans-serif" font-weight="900" font-size="52" fill="#ffffff" letter-spacing="-1">GOLDMINE</text>
+</svg>
